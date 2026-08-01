@@ -4,7 +4,6 @@ public:
     {
         int n = s.length();
         if(n!=goal.length()) return false;
-
         //keep rotating  s for n times untilwe get correct goal
         while(n--)
         {
