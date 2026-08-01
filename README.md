@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
