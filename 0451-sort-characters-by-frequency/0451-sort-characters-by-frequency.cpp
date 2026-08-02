@@ -32,7 +32,7 @@ public:
                     w+= letter;
                 }
 
-                ans=ans+w;
+                ans+=w;
 
             }
         return ans;
