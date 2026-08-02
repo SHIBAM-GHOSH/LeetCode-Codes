@@ -14,9 +14,9 @@ public:
         //sort according ot freq
         priority_queue<pair<int, char>> pq;
 
-        for(auto it :mp1)
+        for(auto [key,count] :mp1)
             {
-                pq.push({it.second, it.first});
+                pq.push({count,key});
             }
         
         //xtarct trhe letetr and make string
@@ -24,7 +24,6 @@ public:
         while(pq.empty() == false)
             {
                 auto[c,letter] = pq.top(); pq.pop();
-
                 //append leter c times
                 string w = "";
                 while(c--)
