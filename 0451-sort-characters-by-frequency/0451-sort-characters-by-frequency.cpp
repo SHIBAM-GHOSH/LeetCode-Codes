@@ -26,13 +26,13 @@ public:
                 auto[c,letter] = pq.top(); pq.pop();
 
                 //append leter c times
-                //string w = "";
+                string w = "";
                 while(c--)
                 {
-                    ans+= letter;
+                    w+= letter;
                 }
 
-                //ans=ans+w;
+                ans=ans+w;
 
             }
         return ans;
