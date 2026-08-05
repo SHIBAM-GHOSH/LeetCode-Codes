@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
