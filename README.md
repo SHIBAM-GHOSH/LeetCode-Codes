@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
