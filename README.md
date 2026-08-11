@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
