@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0014-longest-common-prefix) |
+| [0407-trapping-rain-water-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 ## Trie
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1633-percentage-of-users-attended-a-contest) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
