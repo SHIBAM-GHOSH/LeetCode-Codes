@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1903-largest-odd-number-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
