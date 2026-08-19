@@ -9,7 +9,7 @@ public:
                 return;
             }
         
-         //1. pick branch first 
+         //1. pick branch first , we pick duplicate adjacent also 
         curr_list.push_back(nums[idx]);
         solve(nums, curr_list, idx+1);
         //backtrack, 
@@ -21,21 +21,16 @@ public:
             idx++;
         } 
         solve(nums,curr_list, idx+1);
-       
-
     }
 
     vector<vector<int>> subsetsWithDup(vector<int>& nums) 
     {
         n = nums.size();
         ans.clear();
-
         sort(nums.begin() , nums.end());
 
         vector<int> curr_list;
         solve(nums, curr_list, 0);
-        return ans;
-        
-
+        return ans;        
     }
 };
