@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0014-longest-common-prefix) |
+| [0090-subsets-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0090-subsets-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 ## Trie
 |  |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
