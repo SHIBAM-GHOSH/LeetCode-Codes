@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0050-powx-n) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1927-sum-game) |
 ## Array
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0090-subsets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
