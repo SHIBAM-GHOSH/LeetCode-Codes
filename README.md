@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0014-longest-common-prefix) |
 | [0090-subsets-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0090-subsets-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Trie
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String Matching
 |  |
 | ------- |
