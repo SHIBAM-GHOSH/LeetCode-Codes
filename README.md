@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1927-sum-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
 | ------- |
