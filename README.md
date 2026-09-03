@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0014-longest-common-prefix) |
 | [0090-subsets-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -160,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
