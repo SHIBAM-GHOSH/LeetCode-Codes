@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0115-distinct-subsequences) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0242-valid-anagram) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHIBAM-GHOSH/LeetCode-Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
